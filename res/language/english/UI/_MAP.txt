@@ -1,0 +1,2 @@
+*Name, width, height, x (multiples of 8), y (multiples of 8)
+*FOR USE IN TOWNMAP CLASS

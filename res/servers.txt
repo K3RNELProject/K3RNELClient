@@ -1,0 +1,2 @@
+[SERVER NAME]
+[SERVER IP]
